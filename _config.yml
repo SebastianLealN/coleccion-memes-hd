@@ -20,21 +20,21 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Postales de Gustavo Zalamea 
+title: Colección de memes
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Colección de postales de Gustavo Zalamea
+tagline: Coleccion de memes para mi trabajo
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Postales de Bogotá con intervenciones realizadas por Gustavo Zalamea."
+description: "Coleccion de memes que me han interasado para mi trabajo."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Sebastian Leal
+author: Juan Sebastian Leal
 
 ##########
 # COLLECTION SETTINGS
 #
 # Set the metadata for your collection (the name of the csv file in your _data directory that describes the objects in your collection) 
 # Use the filename of your CSV **without** the ".csv" extension! E.g. _data/demo-metadata.csv --> "demo-metadata"
-metadata: postales-zalameaz-hd-postales
+metadata: coleccion_memes (1)
 
 ##########
 # Site/Organization Branding 

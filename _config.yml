@@ -1,5 +1,3 @@
-
-
 ##########
 # URL VARIABLES [optional if using GitHub Pages!]
 #
@@ -16,7 +14,7 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Colección de memes
+title: "Colección de memes"
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Coleccion de memes para mi trabajo
 # description appears in meta tags and other locations
